@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+form{
+  border: 1px solid black;
+  width: 30%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+input{
+  margin: 0.5rem;
+}
+button{
+  display: block;
+  margin: 0 auto;
+}
+label{
+  display: block;
+}
